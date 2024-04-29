@@ -222,3 +222,80 @@
 // console.log(result);
 
 // answer: 10;
+
+// Q16: Create a variable count with an initial value of 8. use the post-increament operator to increament count, then log the result to the console.?
+
+// let count = 8;
+// console.log(count++);
+// console.log(count);
+
+// Q17:initialize a variable x with a value of 15. use the pre-decreament operator to decreament x , then display the updated value.?
+
+// let x = 15;
+// console.log(--x);
+// console.log(x);
+
+// answer: 14;
+
+// Q18: Declare a variable num and set it to 25. use the post-decrement operator to decrement num , then print the result?
+
+// let num = 25;
+// console.log(num--);
+// console.log(num);
+
+// answer: 24;
+
+// Q19: Start with a variable value set to 10 . Apply the pre-increment operator to value, and then output the new value?
+
+// let value = 10;
+// console.log(++value);
+// console.log(value);
+
+// answer: 11;
+
+// Q20: set a variable index to 5 . Apply the post-increment operator to index and display its Value.?
+
+// let index = 5;
+// console.log(index++);
+
+// answer: 5;
+
+// Q21: Define a variable quantity and assign it the value 12. use the pre-decrement operator on quantity and then show its updated value.?
+
+// let quantity = 12;
+// console.log(--quantity);
+// console.log(quantity);
+
+// answer: 11;
+
+// Q22: initialize  a variable counter with a value of 18 . use the post-increment operator on counter and log the XPathResult.?
+
+// let counter = 18;
+// console.log(counter++);
+// console.log(counter);
+
+// answer: 18;
+
+// Q23: Create a variable score set to 30. use the post-decrement operator on score, then print the XPathResult.?
+
+// let score = 30
+// console.log(score--);
+// console.log(score);
+
+// answer: 29;
+
+// Q24: Start with a variable value set to 20. Apply the preincrement operator to value and then output the new value.?
+
+// let value = 20;
+// console.log(++value);
+// console.log(value);
+
+// answer : 21;
+
+// Q25:Declare a variable counter and set it to 8. Apply the post-decreament operator to counter , then display the result?
+
+// let counter = 8;
+// console.log(counter--);
+// console.log(counter);
+
+// answer 7;
